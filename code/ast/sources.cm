@@ -1,0 +1,21 @@
+Group 
+      signature AST
+      signature AST2
+      signature GENAST2
+   
+      functor Ast    
+      functor Ast2   
+      functor genAST2   
+is
+        $/basis.cm
+        $/smlnj-lib.cm   
+		
+	ast2.sig
+	ast2.fun
+	
+	ast.sig
+	ast.fun
+	
+	genAST2.sig
+	genAST2.fun
+	

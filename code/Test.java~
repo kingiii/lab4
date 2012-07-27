@@ -1,0 +1,49 @@
+class Factorial{
+	public static void main(String[] a){
+		System.out.println(new Fac().ComputeFac(10));
+	}
+}
+
+class A{
+	int ia;
+	int a;
+	int ma;
+	public int funA1(){
+		return 0;
+	}
+	
+	public int funA2(){
+		return 0;
+	}
+}
+
+class B extends A{
+	int jb;
+	int b;
+	int nb;
+	public int funB(){
+		return 0;
+	}
+}
+
+class C extends B{
+	int kc;
+	int c;
+	int pc;
+	public int funC(){
+		return 0;
+	}
+}
+
+class D{
+	int id;
+	int d;
+	int md;
+	public int funD1(){
+		return 0;
+	}
+	
+	public int funD2(){
+		return 0;
+	}
+}

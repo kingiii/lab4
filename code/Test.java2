@@ -1,0 +1,111 @@
+// after parsing
+
+class Factorial{
+	public static void main(String[] a){
+        System.out.println (new Fac().ComputeFac(10));
+	}
+}
+
+
+
+class A{
+Method Table:
+(A,	funA1)
+(A,	funA2)
+    int a;
+    int ia;
+    int ma;
+    public int funA1 (int aaa) {
+        
+        return (0);
+    }
+    public int funA2 () {
+        
+        return (0);
+    }
+}
+
+
+
+class B{
+Method Table:
+(A,	funA1)
+(A,	funA2)
+(B,	funB)
+    int a;
+    int b;
+    int ia;
+    int jb;
+    int ma;
+    int nb;
+    public int funA1 (int aaa) {
+        
+        return (0);
+    }
+    public int funA2 () {
+        
+        return (0);
+    }
+    public int funB () {
+        
+        return (0);
+    }
+}
+
+
+
+class C{
+Method Table:
+(A,	funA1)
+(A,	funA2)
+(B,	funB)
+(C,	funC)
+    int a;
+    int b;
+    int c;
+    int ia;
+    int jb;
+    int kc;
+    int ma;
+    int nb;
+    int pc;
+    public int funA1 (int aaa) {
+        
+        return (0);
+    }
+    public int funA2 () {
+        
+        return (0);
+    }
+    public int funB () {
+        
+        return (0);
+    }
+    public int funC () {
+        
+        return (0);
+    }
+}
+
+
+
+class D{
+Method Table:
+(D,	funD1)
+(D,	funD2)
+    int d;
+    int id;
+    int md;
+    public int funD1 () {
+        
+        return (0);
+    }
+    public int funD2 () {
+        
+        return (0);
+    }
+}
+
+
+
+
